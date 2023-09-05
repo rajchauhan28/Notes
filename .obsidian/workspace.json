@@ -20,14 +20,6 @@
             }
           },
           {
-            "id": "046ebdaed15f3804",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "5269958cea56909e",
             "type": "leaf",
             "state": {
@@ -36,6 +28,18 @@
                 "file": "Tips and tricks of python.md",
                 "mode": "source",
                 "source": true
+              }
+            }
+          },
+          {
+            "id": "ff7888f9f1caa0be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Some useful links.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -90,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 213.5
   },
   "right": {
     "id": "018906de066a50fe",
@@ -106,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tips and tricks of python.md",
+                "file": "Uninstall commands for bloatware and other apps using adb.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tips and tricks of python.md",
+                "file": "Uninstall commands for bloatware and other apps using adb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tips and tricks of python.md"
+                "file": "Uninstall commands for bloatware and other apps using adb.md"
               }
             }
           }
@@ -167,9 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5269958cea56909e",
+  "active": "0e6e5dfa7247a58d",
   "lastOpenFiles": [
+    "Untitled",
     "Tips and tricks of python.md",
+    "Some useful links.md",
     "Uninstall commands for bloatware and other apps using adb.md",
     "2023-09-02.md",
     "e30b9524cf969ebdb9d3c439ef393aef76d047b8ccb2c1f7f09cc6ee84fa0e55.gif",
