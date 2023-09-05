@@ -50,21 +50,9 @@
               "type": "graph",
               "state": {}
             }
-          },
-          {
-            "id": "3e2e5562c111483c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitledasfafewfe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitledasfafewfe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitledasfafewfe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +177,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e2e5562c111483c",
+  "active": "0e6e5dfa7247a58d",
   "lastOpenFiles": [
     "Untitledasfafewfe.md",
     "Obsidian tricks.md",
