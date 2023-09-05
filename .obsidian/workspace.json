@@ -18,8 +18,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "046ebdaed15f3804",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "5269958cea56909e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tips and tricks of python.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Uninstall commands for bloatware and other apps using adb.md",
+                "file": "Tips and tricks of python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Uninstall commands for bloatware and other apps using adb.md",
+                "file": "Tips and tricks of python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Uninstall commands for bloatware and other apps using adb.md"
+                "file": "Tips and tricks of python.md"
               }
             }
           }
@@ -146,8 +167,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ccf14a3aecf983bd",
+  "active": "5269958cea56909e",
   "lastOpenFiles": [
+    "Tips and tricks of python.md",
     "Uninstall commands for bloatware and other apps using adb.md",
     "2023-09-02.md",
     "e30b9524cf969ebdb9d3c439ef393aef76d047b8ccb2c1f7f09cc6ee84fa0e55.gif",
