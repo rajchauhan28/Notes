@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Uninstall commands for bloatware and other apps using adb.md",
+                "file": "Obsidian tricks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a51ef6e51c3fe8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,17 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "286755d3aadb3093",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitledasfafewfe.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -177,13 +183,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e6e5dfa7247a58d",
+  "active": "5a51ef6e51c3fe8b",
   "lastOpenFiles": [
-    "Untitledasfafewfe.md",
     "Obsidian tricks.md",
+    "Untitled.md",
+    "Uninstall commands for bloatware and other apps using adb.md",
     "Some useful links.md",
     "Tips and tricks of python.md",
-    "Uninstall commands for bloatware and other apps using adb.md",
+    "Untitledasfafewfe.md",
     "Untitled",
     "2023-09-02.md",
     "e30b9524cf969ebdb9d3c439ef393aef76d047b8ccb2c1f7f09cc6ee84fa0e55.gif",

@@ -8,7 +8,7 @@ Basic syntax -
 
 
 Some common Bloatware and apps -
- 1) Smart Dock - `pm uninstall -k --user 0 cu.axel.smartdock`
+ 1) Smart Dock - `pm uninstall -k --user 0 cu.axel.smartdock` also uninstall another cu.axel.smartdock app from app list in your phone
  2) Samsung max - `pm uninstall -k --user 0 com.opera.max.oem`
  3) YouTube Vanced - `pm uninstall -k --user 0 com.vanced.android.youtube`
  4) YouTube - `pm uninstall -k --user 0 com.google.android.youtube`
